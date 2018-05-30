@@ -52,7 +52,7 @@
 The father of the gods, Kalemiel, makes the mantle, and then makes the gods.  Then he teaches them how to create. "The Gods Slept In the Vast Unformed Void, and dreamt of a world that was broken.  When they woke, they built the world that is."  Then, Kalemiel leaves his children to their creation.
 
 ### The Restless Void Stirs
-*Event, Dark*
+*Event, Dark, Legacy (Micah)*
 
 The dreams of the children of Kalemiel sent ripples out into the vast unformed void.  There, in the endless dark, *Older Things than They*, sleeping their own slumber, stirred and grew anxious, and their dreams moved toward Kalemin.
 
@@ -236,7 +236,7 @@ Part of the pantheon wages war on the rest of the pantheon.
 
 
 ### Drow Unbind the Underdark Near Varrav Gazzan
-*Event, Light, Legacy (Craig)*
+*Event, Light, Abandoned Legacy (Craig)*
 
 The Drow, with the help of some dwarves, create an arcane locus beneath the Angavin Mountains use it as a source of power to *unbind* the nearby Underdark so they can civilize it.  It is a gaping pit from which pour a veritable army of The Get.  This ritual is almost an exact reinactment of the one that destroyed Irion.
 
@@ -296,6 +296,50 @@ The other gods create the metallic dragons.
 
 A war that is quite long and costly.  The gods fight a proxy war with the dragons, humans and other races.
 
+
+### Tiefling Bloodlines Created
+*Event, Dark*
+
+Humans make pacts with demons to gain power and advantage in the war. The descendents of these people occasionally exhibit demonic features such as hellish skin pigmentation or horns.
+
+\page
+> #### The Fall of The Grand Host
+> *Scene, Dark*
+>
+> Scourge Genereal Caderyn, having grown bold with his new demonic power, has marched his army across the mountain range which will later be called The Angavins. This army, the largest who serve The Discordant Host, is under attack by the patriarch of the Bronze dragon flight, Gruldoras.
+>
+> After a long and gruesome battle, only Cadeyrn remains to fight the dragon. The two trade blows, magically and physically, all the way to the peak of the mountain, where Cadeyrn falls.  As his last breath leaves him, his skin turns a deep crimson and a wide rictus smile spreads across his face, frozen there in death.
+> 
+> The maps label this mountain as Cade's Grin
+___
+> - **Question:** What was the turning point in the Dragon Wars, when The Discordant Host began to lose its footing?
+>
+
+### The Wandering
+*Event, Dark*
+
+An army in service to Melos is assailed by a large Scourge host. Melos, the god of travel, intervenes directly, banishing this host to a desert continent, far from the war. These humans subsist in the sandy wastes, alone and disconnected from the rest of the known world.
+
+> #### Taming the Wastes
+> *Scene, Light*
+>
+> Following herds of shaggy beasts for food, Selgari she'Femil, a young female warrior from the recently displaced human host inadvertantly comes across a cave. She is attacked by a predator that also hunted the shaggy herding beasts. The scaled creature stands thirty feet tall, but despite its immense size, Selgari slays the monster. She shows her people the corpse, and is promptly promoted through the social hierarchy of her tribe due to her bravery. Her quick assension to power ultimately earns her a place as the leader among the people. She, under the guidance of Melos, leads them toward the Shalvarn River, though her daughter will go on to finish leading them on that journey.
+>
+___
+> - **Question:** Why is the Sirilan society matriarchal?
+>
+
+~~~
+~~~
+
+> #### The Twins' Spire
+> *Scene, Light*
+>
+> Ald'Ashir shal'Selgari and his sister Danier she'Selgari, twins, seek food in the desert. They are caught in the open in a vicious storm. Unable to find shelter, they quickly find themselves to be lost.  A whirlwind arises in front of them, a column of death bearing down on them. They finaly find a small crevase in the sandstone, where Ald'Ashir pushes his sister inside and stands at the mouth of the cave to protect her from flying debris. Knowing that he is likely to die, Danier uses her own gifts of the mind to assist and protect her brother. Seeing the bravery of the pair, Steir sends a bolt of lightning through the middle of the whirlwind, destroying it and leaving behind a tall column of pure swirling glass as the storm disperses. A small sliver of the column in the shape of a staff breaks off as the twins approach to investigate. Danier picks up the staff, which to this day serves as the ruling staff of Sirile's queen. 
+> _
+> - **Question:** How did these wandering people begin to form a nation?
+>
+
 ### The Banishment of the Forgotten
 *Event, Dark*
 
@@ -330,7 +374,28 @@ A bright red comet appears in the celestial tapestry.  It is larger and brighter
 
 The Cult of the Second Sun, worshipping the comet as a sign from gods they do not know, believe that the gods who are known are *wrong*, and set about murdering priests and burning temples wherever their influence has spread.
 
+### Tiefling Genocide
+*Event, Dark*
 
+The Illdaran Inquisition, in keeping with their goal of wiping out all remnants of The Forgotten, seek to destroy all Tieflings. In pursuing this goal, they kill not only those who exhibit demonic features, but also their entire families and those who know them.
+
+### Path to Marthanis
+*Event, Light*
+
+With the tieflings nearing extinction, Ancosan, a tiefling priest of Uldi, organizes the ‘underground path’. He places tieflings in the homes of sympathizers as they make their way to a secret village called, Marthanis, deep in the forests of Eilsrahel. Though few survive the brutal slaughter by the Ildaran Inquisition, enough manage to flee to Marthanis to repopulate, ensuring the race survives.
+~~~
+~~~
+> #### Rise of The Phoenix
+> *Scene, Light*
+>
+> Ancosan leads his people to the coast of The Abaduzin Empire, intending to sail toward Eilsrahel and Marthanis. He and his people are intercepted  by a group of Illdaran knights on the shore before they can shove off. Ancosan, normally a pacifist, stands his ground and fights off the knights as the tieflings board the ships. All but a few make it aboard.
+>
+> One of those cut off from boarding is a tiefling child. The priest uses himself as a shield against an Illdaran blade, buying enough time for the boy to make it to the ship at the cost of his own life. As the knights begin boarding the ships, sparks begin swirling around Ancosan's body. He rises into the air, eyes burning, and wings of fire unfurl behind him. Those knights already aboard burst into flame as Ancosan battles those on the beach. As the ash and bits of burned armor fall to the decks of the sailing ships, Ancosan is struck by the harm he has just caused. In his moment of stupor, he is slain again.
+>
+> It is said that the other gods were displeased with Illdar, and this was their rebuke, and that The power of The Phoenix would be given out by the gods as they deem it necessary.
+___
+> - **Question:** How did The Phoenix first become a part of history?
+>
 
 ### The Bardic Covenant
 *Event, Light*
@@ -342,14 +407,12 @@ At a Symposium, wherein various representatives of the world's Bardic Colleges g
 *Period, Light*
 
 Wherein the Illdaran Inquisition and the Bardic Colleges vie for control of history.  Following the formation of the Bardic Covenant, a war broke out in the shadows between the bards, who wished to preserve the true resonance of history, and the Inquisition, who wished to rewrite it.
+\page
 
 ### The "Battle" of She'Rinar
 *Event, Light*
 
 The *Keepers of The Words of Creation*, which is the main and most venerable bardic school in Sirile, has been covertly stymying the Inquisition's progress in Sirile.  It comes to a head over the span of a couple of weeks in She'Rinar, the capitol city of Sirile.  In this "battle", the bards are using magic to scrawl entire books worth of history on walls in rapid succession, while the Inquisition does everything they can to remove them.
-
-~~~
-~~~
 
 > #### Enlightening The Temple
 > *Scene, Light*
@@ -361,16 +424,16 @@ ___
 
 
 ### The Gift of Athanasius
-*Event, Light*
+*Event, Light, Abandoned Legacy (Micah)*
 
 A very well endowed scholarship fund created by the Inquisition, to promote the advancement of young aspiring bards of true and "good" moral character, who will preserve the "true" faiths against their detractors and would-be corruptors.  This scholarship fund is used to promote agents of the Inquisition at very early ages into the colleges.  Athanasius was an Illdaran priest who had a particular fondness for art, poetry, and such pursuits.
-
 
 ### Athanasius' Chosen
 *Event, Light*
 
 Through various power plays and subtlety, Léon Shal'Severa, one of the Illdaran graduates becomes Headmaster of *The Keepers of the Words of Creation*.  This is the strongest position within one of the bardic colleges that the Illdaran have achieved.
-
+~~~
+~~~
 > #### The Descent of Shal'Cazal
 > *Scene, Light*
 ___
@@ -378,10 +441,6 @@ ___
 > - **Characters:** Léon Shal'Severa
 > 
 > To solidify his position after his power plays and subtelty, Leon, Shal’Severa, through a contest of musical and storytelling prowess, battles against other bards within his college. He bests his long standing rival Noá Shal'Cazal to standing applause, further creating a divide between the two that would prove to be the defining moment that turned his rival towards the Forgotten. 
-
-
-\page
-
 
 
 ## The Dawn of the Dominion
@@ -399,11 +458,20 @@ The human kingdoms expand toward the Angavin Mountains.
 
 Human expansion toward the Angavin Mountains make the dark elves under the mountain uneasy, so they rile up the orcs and maybe other such humanoids, supply them with adamantine equipment and convince them to wage war on the humans.
 
+
 ### Thoron Dradenkar Unites the Kingdoms
 *Event, Dark*
 
 Thoron Dradenkar, one of the kings of the as-yet unnamed pre-Dominion lands, unites the kingdoms and beats the orcish forces back. He becomes the first emperor. The Adamant Throne is forged and Thoron sits upon it in the city which will later be known as Thoronel.
 
+
+### Sirilan Aide
+*Event, Light*
+
+Queen Isette of Sirile, responds to Dradenkar's call for aide and pledges the support of Sirile's fleet and naval supply lines in the effort to push back the Orcish advance.
+
+
+\page
 ### Cult of the Forgotten Emerges
 *Event, Dark*
 
@@ -418,9 +486,6 @@ The alliance's metallurgists devise a way to make "ardinum," an alloy of adamant
 *Event, Light*
 
 The Orcish war ends, and the Dominion is victorious.
-
-~~~
-~~~
 
 ## Orcs Invasion of Iyuth Orai
 *Period, Dark*
@@ -548,6 +613,10 @@ ___
 > - Hakan is in charge of the city guard, and Nelius's mother is a priestess of Illdar, so he's being installed as a pawn.
 > - Hakan is convinced when Gnaeus Septimus shows him his son at the ceremony, with a veiled threat.
 
+### The Council of Nineteen
+*Event, Dark*
+
+Cultists in the Nudinmurkh Line summon a host of demonic lords, called The Council of Nineteen. The council begins building a base of power there.
 
 
 \page
@@ -573,6 +642,7 @@ The coalition breaks the Dominion Yoke.
 
 The Emperor of The Dominion abolishes slavery.
 
+
 ### Non-humans Granted Citizenship
 *Event, Dark*
 
@@ -582,6 +652,12 @@ Eventually, people of the minor races are given citizenship.
 *Event, Dark*
 
 Republic Population Swells from Dominion Immigrants
+
+### War of the Phoenix
+*Event, Dark, Legacy (Craig)*
+
+The fallen paladin Azin'as, a Tiefling, wages war against demonic forces active in the northern Republic. Although slain many times in this war, each time he rises again, eventually repaying whatever debt of vengeance he felt he was owed.
+
 
 
 ### Privateers Plague the Silver Reach
@@ -624,9 +700,6 @@ The Gray army, led by Tarathion, conquer the city of Telyraen, ending the war.
 
 Tarathion, the high general who led the Gray Elf forces to victory in the Elven Civil War, crowns himself the King and sole ruler of Eilsrahel and Eitrahel, and the defender of the new order.  He institutes sweeping reforms, based on the principles of the Gray Elf rebellion.
 
-
-
-
 ## The Age of Chains
 *Period, Dark*
 
@@ -647,6 +720,21 @@ New emperor reinstitutes slavery and replaces most of the regional monarchs of T
 
 Republic agents incite rebellion in the Dominion.
 
+### Sirilan War of Succession
+*Event, Dark*
+
+Illemaer, younger sister of Crown Princess Elmanae, is crowned queen after the death of her mother, instead of her elder sister. The High Priestess cites divine inspiration in this choice, stating that the younger sibling has been chosen by the gods to rule. Elmanae understandably protests, sparking a war on the desert continent. 
+
+~~~
+~~~
+> #### Queen After All
+> *Scene, Dark*
+>
+> Having been stopped from taking the throne, Elmanae flees to The Dominion, where she weds the current Emperor.
+>
+___
+> - **Question:** What happened to Elmanae?
+
 ### Republic Dominion War
 *Event, Dark*
 
@@ -657,8 +745,6 @@ Dominion and the Republic fight a war, which ends in a treaty.
 
 A group of cultists devoted to Alzrius discover the journals of Shal'Cazal, and use the knowledge therein to conduct rituals in which they sacrifices villagers of the rural town of Thalby to their dark god, burning the village in the process.
 
-~~~
-~~~
 
 ### The Moon Under the Mountain
 *Event, Light*
@@ -693,11 +779,14 @@ ___
 Description
 
 ## Current Focus
-* The Occult, Hidden Knowledge (Rory)
-
+* Sirile (Dr. Penguins)
 
 ## Previous Foci
 
+*Most recent first*
+
+* Tieflings (Micah)
+* The Occult, Hidden Knowledge (Rory)
 * Orcs (Alex)
 * The Bardic Wars (Craig)
 * Broken bonds (Rory)
@@ -707,22 +796,24 @@ Description
 ## Legacies
 
 - Division Created Between the Gods (Haku)
-- The Restless Void Stirs (Craig)
+- War of the Phoenix (Craig)
 - The Negation (Rory)
 - The Relationship Between the Bardic Colleges, and the Illdaran Inquisition (Alex)
-- The Gift of Athanasius (Micah)
+- The Restless Void Stirs (Micah)
 
 ### Abandoned Legacies
 - Drow Unbind the Underdark near VG
+- The Gift of Athanasius
 
 ## Turn Order (Clockwise)
 
 1. Craig
 2. Alex
 3. Rory
-4. Matt
-5. Micah
-6. Penguins
+4. Micah
+5. Penguins
+6. Matt
+7. Dominic
 
 ~~~
 ~~~
